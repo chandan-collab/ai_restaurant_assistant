@@ -8,4 +8,4 @@ in .env fill these with your keys and
           TWILIO_AUTH_TOKEN="twilio_auth_token"
           DB_PATH=database/orders.db
 
-for more read README.txt and README01.txt
+for more read docs/README.txt , docs/README01.txt and docs/requirements.txt
